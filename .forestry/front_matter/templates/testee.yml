@@ -1,4 +1,10 @@
 ---
 label: Testee
 hide_body: true
-fields: []
+fields:
+- name: asd
+  type: text
+  config:
+    required: false
+  label: asd
+  description: asda
